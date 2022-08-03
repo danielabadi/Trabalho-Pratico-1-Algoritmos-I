@@ -1,4 +1,4 @@
-# Trabalho Prático 1 -Jogo do Pulo
+# Trabalho Prático 1: Jogo do Pulo
 ## Introdução
 
 Adriana e suas amigas são apaixonadas por jogos de tabuleiro. Em um dia qualquer, Adriana descobre um jogo muito interessante: O Jogo do Pulo. Ansiosa por compartilhar o jogo com suas amigas, imediatamente marca um encontro para jogarem. Já inicia o encontro explicando o jogo. O objetivo do Jogo do Pulo é bem simples: dado um tabuleiro, jogadores e suas posições iniciais, atingir a última casa do tabuleiro (em um tabuleiro de tamanho NxM, essa seria a casa N-1xM-1).
