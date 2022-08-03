@@ -33,4 +33,4 @@ Importante ficar atento:
 - Pense em que situações o programa deve assumir que não existem vencedores;
 - Pesquise sobre BFS em grafos, e veja as possíveis modificações para este problema específico.
 
-
+Mais detalhes no arquivo de especificação.
